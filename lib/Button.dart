@@ -16,7 +16,7 @@ onTap: onTap,
         color:const Color.fromARGB(255, 255, 255, 255),
         borderRadius: BorderRadius.circular(9),
       ),
-      padding: const EdgeInsets.all(10),
+      padding: const EdgeInsets.all(15),
       margin: const EdgeInsets.symmetric(horizontal: 25),
       child: Center(
         child: Text(text),
